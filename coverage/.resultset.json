@@ -1,0 +1,17 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/adampatel/Projects/bookmark-manager/spec/features/features_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1605538708
+  }
+}
